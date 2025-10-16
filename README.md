@@ -1,3 +1,10 @@
+# CUSTOM READ ME BY CS
+->npm run build to start application
+
+->assignment.js in the root of the project directory is the initial copy i wrote from scratch with some assistance from googling and one piece of code i used ai to generate but wasnt able to get it going, finished ~ 1hr 40minutes when i found out call was halted
+
+->clean up and better presentation in the code with vite+react with aid of for cleanup and code generation
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
