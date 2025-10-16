@@ -29,7 +29,7 @@ const createGameLogic = (savedState = null) => {
     }
 
     const modifyPlayerName = (playerIndex, newName) => {
-        if (players[playerIndex]) {
+        if (players[playerIndex] && newName !== "") {
             players[playerIndex].name = newName;
         }
     };
