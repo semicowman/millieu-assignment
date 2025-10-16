@@ -4,7 +4,7 @@
 
 ->assignment.js in the root of the project directory is the initial copy i wrote from scratch with some assistance from googling and one piece of code i used ai to generate but wasnt able to get it going, finished ~ 1hr 40minutes when i found out call was halted
 
-->clean up and better presentation in the code with vite+react with aid of for cleanup and code generation
+->clean up and better presentation in the code with vite+react with aid of ai
 
 # React + Vite
 
